@@ -1,0 +1,18 @@
+.container {
+    display: inline-grid;
+    grid-template-columns: 1440px;
+    grid-template-rows: repeat(3, 450px);
+    grid-gap: 50px;
+}
+
+header {
+    border: 3px solid black;
+}
+
+main {
+    border: 3px solid black;
+}
+
+footer {
+    border: 3px solid black;
+}
